@@ -4,7 +4,7 @@ public class SuperCat {
 
     private String name;
     private String furColor;
-    private int age; 
+    protected int age; 
 
     
     public SuperCat(String name, String furColor, int age) {
